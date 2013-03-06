@@ -2,18 +2,17 @@
 
 ## Setting up
 * Windows:
-  * Place the `.vimrc` file in your home directory (`C:\Users\<you>\.vimrc`)
-  * In the above directory, place the `.vim` directory and rename it to `vimfiles`
-    (no more `.`)
+  * Copy the `.vimrc` file in your home directory (`C:\Users\<you>\.vimrc`)
+  * In the above directory, copy the `.vim` directory and rename it to `vimfiles`
 * OSX/Unix
-  * Place the `.vimrc` file and `.vim` directory in your home directory
+  * Copy the `.vimrc` file and `.vim` directory in your home directory
     (`/home/<user>/`)
 
 ## Adding color
-* 10 popular color schemes: <http://www.vimninjas.com/2012/08/26/10-vim-color-schemes-you-need-to-own/>
+* [10 popular color schemes](http://www.vimninjas.com/2012/08/26/10-vim-color-schemes-you-need-to-own/)
   (included in the provided `.vim` directory with a few others)
-* 428 color schemes side-by-side:
-  <https://code.google.com/p/vimcolorschemetest/#Browse_By_File_Type>
+* [428 color schemes](https://code.google.com/p/vimcolorschemetest/#Browse_By_File_Type)
+  shown in a massive side-by-side comparison
 * Download the `<colorscheme>.vim` file and drop it in `.vim/colors`.
 * In your `.vimrc` file, search for `colorscheme` and change `default` to the
   name of the file you picked, without the extension.

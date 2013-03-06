@@ -13,16 +13,20 @@
   interactive browser tutorial that walks you through some of the commands
   without letting you get too lost
 * Official Tutorial: run `vimtutor` at the command prompt (Windows users check
-  your install directory).
-* [Derek Wyatt's Vim Tutorial Screencasts](http://www.derekwyatt.org/vim/vim-tutorial-videos/)
+  your install directory)
+* [Derek Wyatt's Vim Tutorial Screencasts](http://www.derekwyatt.org/vim/vim-tutorial-videos/):
+  an excellent resource if you want to see more on what Vim has to offer along
+  with good practices
 
 ## Configuration
-See `configuration` folder above
+See [configuration](configuration) directory
 
 ## Help
-* [Avoid the escape key](http://vim.wikia.com/wiki/Avoid_the_escape_key)
+* [Avoid the escape key](http://vim.wikia.com/wiki/Avoid_the_escape_key): rebind
+  Caps Lock to Escape (and even Scroll Lock to Caps Lock if you really want it)
 * [Vim Cheat Sheet](https://www.google.com/search?q=vim+cheat+sheet&tbm=isch)
-  (there are at least a million of these--pick your favorite)
-* Need help with a command or option? `:help <command>` in vim.
+  (there are at least a million of these—pick your favorite)
+* Need help with a command or option? Try `:help <command>` in vim. Press
+  `Ctrl+]` to navigate to a link under your cursor in the help documents.
 * Steal from whoever you can! You can find plenty of well-organized `.vimrc`
   files in a dotfiles repository on GitHub. [Here's mine](https://github.com/dpatti/dotfiles).
