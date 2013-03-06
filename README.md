@@ -26,8 +26,8 @@ See [configuration](configuration) directory
   on how to avoid the pains of reaching for Escape, with links to instructions
   on repurposing your Caps Lock key in [OSX/Linux](http://vim.wikia.com/wiki/VimTip166)
   or [Windows](http://vim.wikia.com/wiki/VimTip75).
-* [Vim Cheat Sheet](https://www.google.com/search?q=vim+cheat+sheet&tbm=isch)
-  (there are at least a million of these—pick your favorite)
+* [Vim Cheat Sheet](http://jrmiii.com/attachments/Vim.pdf) (there are at least a
+  million of these, search for one that works for you)
 * Need help with a command or option? Try `:help <command>` in vim. Press
   `Ctrl+]` to navigate to a link under your cursor in the help documents.
 * Steal from whoever you can! You can find plenty of well-organized `.vimrc`
