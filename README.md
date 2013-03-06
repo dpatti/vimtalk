@@ -22,8 +22,10 @@
 See [configuration](configuration) directory
 
 ## Help
-* [Avoid the escape key](http://vim.wikia.com/wiki/Avoid_the_escape_key): rebind
-  Caps Lock to Escape (and even Scroll Lock to Caps Lock if you really want it)
+* [Avoid the escape key](http://vim.wikia.com/wiki/Avoid_the_escape_key): tips
+  on how to avoid the pains of reaching for Escape, with links to instructions
+  on repurposing your Caps Lock key in [OSX/Linux](http://vim.wikia.com/wiki/VimTip166)
+  or [Windows](http://vim.wikia.com/wiki/VimTip75).
 * [Vim Cheat Sheet](https://www.google.com/search?q=vim+cheat+sheet&tbm=isch)
   (there are at least a million of these—pick your favorite)
 * Need help with a command or option? Try `:help <command>` in vim. Press
